@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "categories": ["JavaScript", "Frontend", "WebDev"],
+    "duration": 60,
+    "description": "A deep dive into the evolving landscape of JavaScript frameworks and what to expect in the coming years."
+  },
+  {
+    "title": "Mastering Microservices Architecture",
+    "speakers": ["John Smith", "Emily White"],
+    "categories": ["Backend", "Architecture", "Cloud"],
+    "duration": 60,
+    "description": "Learn the best practices for designing, building, and deploying scalable microservices."
+  },
+  {
+    "title": "AI in Everyday Applications",
+    "speakers": ["Alex Johnson"],
+    "categories": ["AI", "Machine Learning"],
+    "duration": 60,
+    "description": "Discover how artificial intelligence is being integrated into the apps we use daily."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Maria Garcia"],
+    "categories": ["Security", "Cybersecurity", "Quantum"],
+    "duration": 60,
+    "description": "An overview of the threats quantum computing poses to current encryption standards and how to prepare."
+  },
+  {
+    "title": "The Rise of WebAssembly",
+    "speakers": ["Chris Lee", "Pat Taylor"],
+    "categories": ["WebAssembly", "Performance", "WebDev"],
+    "duration": 60,
+    "description": "Exploring how WebAssembly is enabling near-native performance in web applications."
+  },
+  {
+    "title": "DevOps Culture and Tooling",
+    "speakers": ["Sam Brown"],
+    "categories": ["DevOps", "CI/CD", "Culture"],
+    "duration": 60,
+    "description": "A look at the cultural shifts and essential tools for a successful DevOps transformation."
+  }
+]
